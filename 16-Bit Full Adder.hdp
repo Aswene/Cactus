@@ -1,0 +1,15 @@
+[ModelSim]
+Bit_Full_Adder_lib = $HDS_PROJECT_DIR\Bit_Full_Adder_lib\work
+[Precision]
+Bit_Full_Adder_lib = $HDS_PROJECT_DIR\Bit_Full_Adder_lib\ps
+[hdl]
+Bit_Full_Adder_lib = $HDS_PROJECT_DIR\Bit_Full_Adder_lib\hdl
+[hds]
+Bit_Full_Adder_lib = $HDS_PROJECT_DIR\Bit_Full_Adder_lib\hds
+[hds_settings]
+default_library = Bit_Full_Adder_lib
+version = 2
+[library_type]
+Bit_Full_Adder_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp
